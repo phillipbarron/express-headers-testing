@@ -1,0 +1,17 @@
+{
+  "name": "express-headers-testing",
+  "version": "1.0.0",
+  "description": "sandbox for testing CORS in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "Phill.Barron",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "eslint": "^5.5.0",
+    "express": "^4.16.3"
+  }
+}
