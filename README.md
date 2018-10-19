@@ -1,3 +1,3 @@
 ### Express sandbox
 
-test-bed for CORs setup from expressjs
+test-bed for CORs setup from express js
